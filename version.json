@@ -1,8 +1,8 @@
 {
-    "version":  "1.6.0",
-    "url":  "https://raw.githubusercontent.com/Heckerisbelu/TactCs/8b296332e56acee1ea9eceb72b4203a7b0fa80b3/CS.zip",
-    "sha256":  "45c8847a050210defc9307040d1324b2195fafe2a82be38c948befe05a3c083b",
-    "size":  40327439,
-    "notes":  "FPS counter option, new HUD layout",
+    "version":  "1.7.0",
+    "url":  "https://raw.githubusercontent.com/Heckerisbelu/TactCs/be3ef3b613f269934616356db1e47ece32635e61/CS.zip",
+    "sha256":  "9aee3b055ece5dc90c0665139df067a3935e1ccab1d56b7da35113291fb072ff",
+    "size":  40330159,
+    "notes":  "Video settings: display mode, aspect ratio, resolution; auto render resolution and FPS cap for smoother play",
     "date":  "2026-11-26"
 }
