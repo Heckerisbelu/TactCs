@@ -53,6 +53,8 @@ Everyone needs the **same version** of the game – download it again when this 
 ## Rules
 
 - Terrorists plant the bomb at site A or B; Counter-Terrorists stop them or defuse it.
+  The bomb takes 40 s to explode and beeps faster as it gets close; defusing takes 10 s (5 s with a kit),
+  and the defuse bar turns red if there isn't enough time. Terrorists can see a dropped bomb through walls.
 - First to 13 (Competitive) or 9 (Wingman); sides swap at halftime; 12–12 / 8–8 is a draw.
 - Money for kills and rounds; buy weapons, armour, a defuse kit and grenades during buy time.
   Anything unused that you bought this round can be refunded.
