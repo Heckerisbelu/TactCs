@@ -7,8 +7,9 @@ Two modes: **Competitive** (up to 5v5) and **Wingman** (up to 2v2).
 ## How to play (Windows)
 
 1. Click **CS.zip** above, then the **Download** button (the download arrow).
-2. Unzip it (right-click → **Extract All**) and run `Breachpoint.exe` inside the folder. Keep all the files together.
-3. If Windows shows "Windows protected your PC", click **More info → Run anyway**.
+2. Unzip it (right-click → **Extract All**) and open **`Breachpoint Launcher.exe`** inside the folder.
+   Keep the launcher and the `game` folder together.
+3. If Windows shows "Windows protected your PC", click **More info → Run anyway** (for the launcher, and the game the first time).
 4. Allow the game through the firewall if asked.
 5. **Online:** the host picks a **Game mode**, clicks **Host Online** and shares the join code. Everyone else types it and picks **Join Online**.
    Everyone must pick the same Relay type (DTLS is the default; try **WSS** if it won't connect).
@@ -16,7 +17,10 @@ Two modes: **Competitive** (up to 5v5) and **Wingman** (up to 2v2).
 
 7. Everyone lands in the **lobby** and picks **T** or **CT**. The host clicks **START MATCH** (or **Start with warmup**).
 
-Everyone needs the **same version** of the game – download it again when this page is updated.
+**Updates are automatic:** always start the game with **Breachpoint Launcher**. Every time it opens it checks
+GitHub, downloads and installs any new version (your settings are kept), then starts the game.
+If there's no internet it just starts the version you have. Everyone needs the same version to play together,
+and the main menu tells you if an update is waiting. (Players with a build from before v1.5 need to download CS.zip once more.)
 
 **Latest update:** fullscreen mode, new gun and footstep sounds, player models aim up and down, DMG / ADR on the scoreboard, 3.2 s plant time, no hit marker, owned armour greyed out in the buy menu, and guns can be picked up after the round ends.
 
