@@ -18,6 +18,8 @@ Two modes: **Competitive** (up to 5v5) and **Wingman** (up to 2v2).
 
 Everyone needs the **same version** of the game – download it again when this page is updated.
 
+**Latest update:** fullscreen mode, new gun and footstep sounds, player models aim up and down, DMG / ADR on the scoreboard, 3.2 s plant time, no hit marker, owned armour greyed out in the buy menu, and guns can be picked up after the round ends.
+
 > Some school and work networks block online play. If **Host Online** fails, use a phone hotspot or
 > home internet. **Network Diagnostics** in the main menu tells you what's being blocked.
 
@@ -40,6 +42,7 @@ Everyone needs the **same version** of the game – download it again when this 
 | Y / U | chat / team chat |
 | ~ | console (type `help`) |
 | Esc | pause menu and settings |
+| F11 / Alt+Enter | fullscreen on/off (also in Settings) |
 
 ## Game modes
 
