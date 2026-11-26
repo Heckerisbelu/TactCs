@@ -1,8 +1,8 @@
 {
-    "version":  "1.5.0",
-    "url":  "https://raw.githubusercontent.com/Heckerisbelu/TactCs/8d876496d6d105e971a28a236540d411c1c72edd/CS.zip",
-    "sha256":  "060b13ba4b4a13b9fef6c0a814d7f9d0df6ee6644aa6671a5741cfe9e47de1db",
-    "size":  40326124,
-    "notes":  "Auto-updating launcher; fullscreen, new sounds, aiming models, DMG/ADR",
+    "version":  "1.6.0",
+    "url":  "https://raw.githubusercontent.com/Heckerisbelu/TactCs/8b296332e56acee1ea9eceb72b4203a7b0fa80b3/CS.zip",
+    "sha256":  "45c8847a050210defc9307040d1324b2195fafe2a82be38c948befe05a3c083b",
+    "size":  40327439,
+    "notes":  "FPS counter option, new HUD layout",
     "date":  "2026-11-26"
 }
